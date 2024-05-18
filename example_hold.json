@@ -1,0 +1,44 @@
+[
+    {
+        "stock_code": "AMD",
+        "exchange": "NASDAQ",
+        "quantity": 50,
+        "purchase_date": "2022-01-01"
+    },
+    {
+        "stock_code": "VOO",
+        "exchange": "NYSE",
+        "quantity": 10,
+        "purchase_date": "2022-01-01"
+    },
+    {
+        "stock_code": "0050",
+        "exchange": "TWSE",
+        "quantity": 100,
+        "purchase_date": "2022-01-15"
+    },
+    {
+        "crypto_code": "BTC",
+        "exchange": "Binance",
+        "quantity": 0.1,
+        "purchase_date": "2022-01-01"
+     },
+     {
+        "crypto_code": "ETH",
+        "exchange": "Binance",
+        "quantity": 1,
+        "purchase_date": "2022-01-01"
+     },
+     {
+        "crypto_code": "SOL",
+        "exchange": "Binance",
+        "quantity": 10,
+        "purchase_date": "2022-01-01"
+     },
+    {
+        "crypto_code": "USDT",
+        "exchange": "Binance",
+        "quantity": 100,
+        "purchase_date": "2022-01-01"
+    }
+]
