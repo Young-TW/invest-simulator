@@ -1,0 +1,26 @@
+{
+    "VOO": {
+        "name": "Vanguard S&P 500 ETF",
+        "exchange": "NYSE",
+        "ticker": "VOO",
+        "currency": "USD"
+    },
+    "QQQ": {
+        "name": "Invesco QQQ Trust",
+        "exchange": "NASDAQ",
+        "ticker": "QQQ",
+        "currency": "USD"
+    },
+    "0050": {
+        "name": "元大台灣50",
+        "exchange": "TWSE",
+        "ticker": "0050",
+        "currency": "TWD"
+    },
+    "AMD": {
+        "name": "Advanced Micro Devices, Inc.",
+        "exchange": "NASDAQ",
+        "ticker": "AMD",
+        "currency": "USD"
+    }
+}

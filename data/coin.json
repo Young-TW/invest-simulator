@@ -1,0 +1,34 @@
+{
+    "BTC": {
+        "crypto": "BTC",
+        "full_name": "bitcoin"
+    },
+    "ETH": {
+        "crypto": "ETH",
+        "full_name": "Ethereum"
+    },
+    "XRP": {
+        "crypto": "XRP",
+        "full_name": "Ripple"
+    },
+    "BCH": {
+        "crypto": "BCH",
+        "full_name": "Bitcoin Cash"
+    },
+    "LTC": {
+        "crypto": "LTC",
+        "full_name": "Litecoin"
+    },
+    "ADA": {
+        "crypto": "ADA",
+        "full_name": "Cardano"
+    },
+    "BNB": {
+        "crypto": "BNB",
+        "full_name": "Binance Coin"
+    },
+    "SOL": {
+        "crypto": "SOL",
+        "full_name": "Solana"
+    }
+}
